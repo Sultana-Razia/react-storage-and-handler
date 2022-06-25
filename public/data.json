@@ -1,0 +1,47 @@
+[
+    {
+        "id": "62b596af98d79d05852a0ee0",
+        "age": 24,
+        "eyeColor": "green",
+        "name": "Lindsay Pickett",
+        "company": "UNISURE",
+        "email": "lindsaypickett@unisure.com",
+        "phone": "+1 (964) 591-3100"
+    },
+    {
+        "id": "62b596af8f1043248405743b",
+        "age": 22,
+        "eyeColor": "blue",
+        "name": "Neva Lester",
+        "company": "COFINE",
+        "email": "nevalester@cofine.com",
+        "phone": "+1 (840) 494-3429"
+    },
+    {
+        "id": "62b596af4e7dc169b306b47e",
+        "age": 36,
+        "eyeColor": "blue",
+        "name": "Lora Ellison",
+        "company": "OTHERWAY",
+        "email": "loraellison@otherway.com",
+        "phone": "+1 (932) 580-3545"
+    },
+    {
+        "id": "62b596af19b34756b58b7f34",
+        "age": 28,
+        "eyeColor": "brown",
+        "name": "Beck Trevino",
+        "company": "COSMETEX",
+        "email": "becktrevino@cosmetex.com",
+        "phone": "+1 (983) 585-3973"
+    },
+    {
+        "id": "62b596af040517be1cb6c8e7",
+        "age": 20,
+        "eyeColor": "brown",
+        "name": "Hall Fields",
+        "company": "SIGNITY",
+        "email": "hallfields@signity.com",
+        "phone": "+1 (950) 480-3283"
+    }
+]
